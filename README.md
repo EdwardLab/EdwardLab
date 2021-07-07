@@ -1,3 +1,4 @@
 ### Welcome to Xing Yu Jie's Github repository!
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingyujie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingyujie)](https://github.com/anuraghazra/github-readme-stats)
