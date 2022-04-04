@@ -2,4 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
 ### Personal programmer Xingyujie's Github repository!
 🚙🚙🚙
+Twitter:xyj_nullptr
+YouTube:小邢的实验室
 
