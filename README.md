@@ -15,5 +15,7 @@ Telegram:@xingyujie
 
 Discord: xingyujie#2550 
 
-TikTok:
+TikTok:tiktok.com/@xingyujie666 
+
+Reddit:https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share 
 
