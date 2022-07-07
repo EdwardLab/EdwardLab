@@ -20,6 +20,8 @@ Reddit:https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_so
 
 Mail:xingyujie50@gmail.com
 
-Love USA, Canada, Australia and Japan. 
+## Love USA, Canada, Australia and Japan. 
+## defend human rights.
+## stand with Ukraine 
 
 
