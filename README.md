@@ -24,6 +24,4 @@ Mail:xingyujie50@gmail.com
 ## defend human rights.
 ## stand with Ukraine 
 
-“祝贺不正义的小粉红死掉” 
-
-Twitter (Chinese News):xyj_nullptr
+Twitter (Chinese News):@xyj_nullptr
