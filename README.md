@@ -1,6 +1,6 @@
-### Welcome to Edward Github repository!
+### Welcome to Edward Github homepage!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
-### Personal programmer Edward Hsing Github repository!
+### Personal programmer Edward Hsing‘s Github homepage!
 ## Contact and follow me
 Twitter:xyj_nullptr xyj_offical
 
@@ -10,7 +10,7 @@ Snapchat:xingyujie50
 
 Facebook:https://www.facebook.com/xingyujie50 
 
-Telegram:@xingyujie 
+Telegram:[@xingyujie](https://t.me/xingyujie） 
 
 Discord:xingyujie#2550 
 
