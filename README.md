@@ -14,11 +14,15 @@ Facebook: [Xing Yujie](https://www.facebook.com/xingyujie50)
 
 Telegram: [@xingyujie](https://t.me/xingyujie)
 
-Discord:xingyujie#2550 
+Discord: xingyujie#2550 
 
-TikTok:[@xingyujie666](tiktok.com/@xingyujie666) 
+TikTok: [@xingyujie666](tiktok.com/@xingyujie666) 
 
-Reddit:[xingyujie(u/Sensitive_Job_5792)](https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share) 
+Reddit: [xingyujie(u/Sensitive_Job_5792)](https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share) 
+
+YouTube: [YouTube Chinese](https://youtube.com/channel/UCIPtEPclvYjDSgJCehyS48g) 
+
+Spotify: [Edward Hsing](https://open.spotify.com/user/31t25zuf52aqdft4c3voija46hu4?si=gYflcD8DSnSfr5tjx0Ftkw&utm_source=copy-link) 
 
 Mail:xingyujie50@gmail.com
 
