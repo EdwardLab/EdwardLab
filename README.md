@@ -31,3 +31,4 @@ Mail: xingyujie50@gmail.com
 ## stand with Ukraine 
 
 Twitter (Chinese News):@xyj_nullptr
+#### XIAO FEN HONG is not accepted.  Please XIAO FEN HONG leave me.不接受小粉红,五毛党，请小粉红,五毛党远离我。小粉红直接拉黑！！（豁免规则：若急需联系的小粉红，请勿当面吹CCP，辱骂或人身攻击）
