@@ -6,17 +6,17 @@ Twitter:xyj_nullptr xyj_offical
 
 Instagram:yujie348 
 
-Snapchat:https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US 
+Snapchat: [Edward Hsing](https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US) 
 
-Facebook:https://www.facebook.com/xingyujie50 
+Facebook: [Xing Yujie](https://www.facebook.com/xingyujie50) 
 
-Telegram:[@xingyujie](https://t.me/xingyujie） 
+Telegram: [@xingyujie](https://t.me/xingyujie)
 
 Discord:xingyujie#2550 
 
-TikTok:tiktok.com/@xingyujie666 
+TikTok:[@xingyujie666](tiktok.com/@xingyujie666) 
 
-Reddit:https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share 
+Reddit:[xingyujie(u/Sensitive_Job_5792)](https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share) 
 
 Mail:xingyujie50@gmail.com
 
