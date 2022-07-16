@@ -6,7 +6,7 @@ Twitter:
 [@xyj_nullptr](https://twitter.com/xyj_nullptr?t=jT2-rH9MM8hvujhyEokTMw&s=09)
 [@xyj_offical](https://twitter.com/xyj_offical?t=DkCinU_dYswiFrwUCma9Yw&s=09)
 
-Instagram:yujie348 
+Instagram: yujie348 
 
 Snapchat: [Edward Hsing](https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US) 
 
