@@ -6,7 +6,7 @@ Twitter:xyj_nullptr xyj_offical
 
 Instagram:yujie348 
 
-Snapchat:xingyujie50 
+Snapchat:https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US 
 
 Facebook:https://www.facebook.com/xingyujie50 
 
