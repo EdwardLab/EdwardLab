@@ -2,7 +2,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
 ### Personal programmer Edward Hsing‘s Github homepage!
 ## Contact and follow me
-Twitter:xyj_nullptr xyj_offical
+Twitter:
+[@xyj_nullptr](https://twitter.com/xyj_nullptr?t=jT2-rH9MM8hvujhyEokTMw&s=09)
+[@xyj_offical](https://twitter.com/xyj_offical?t=DkCinU_dYswiFrwUCma9Yw&s=09)
 
 Instagram:yujie348 
 
