@@ -16,7 +16,7 @@ Telegram: [@xingyujie](https://t.me/xingyujie)
 
 Discord: xingyujie#2550 
 
-TikTok: [@xingyujie666](tiktok.com/@xingyujie666) 
+TikTok: [@xingyujie666](https://tiktok.com/@xingyujie666) 
 
 Reddit: [xingyujie(u/Sensitive_Job_5792)](https://www.reddit.com/u/Sensitive_Job_5792?utm_medium=android_app&utm_source=share) 
 
