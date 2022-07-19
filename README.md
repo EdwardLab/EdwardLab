@@ -24,6 +24,10 @@ YouTube: [YouTube Chinese](https://youtube.com/channel/UCIPtEPclvYjDSgJCehyS48g)
 
 Spotify: [Edward Hsing](https://open.spotify.com/user/31t25zuf52aqdft4c3voija46hu4?si=gYflcD8DSnSfr5tjx0Ftkw&utm_source=copy-link) 
 
+SMS and Voicemail: 616-799-7429
+
+SMS and Voicemail(very important only): 707-244-0656
+
 Mail: xingyujie50@gmail.com
 
 ## Love USA, Canada, Australia and Japan. 
