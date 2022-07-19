@@ -26,7 +26,7 @@ Spotify: [Edward Hsing](https://open.spotify.com/user/31t25zuf52aqdft4c3voija46h
 
 SMS and Voicemail: 616-799-7429
 
-SMS and Voicemail(very important only): 707-244-0656
+SMS and Voicemail (very important only) : 707-244-0656
 
 Mail: xingyujie50@gmail.com
 
