@@ -2,10 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
 ### Personal programmer Edward Hsing‘s Github homepage!
 ## Contact and follow me
-Twitter:
-[@xyj_nullptr](https://twitter.com/xyj_nullptr?t=jT2-rH9MM8hvujhyEokTMw&s=09)
-[@xyj_offical](https://twitter.com/xyj_offical?t=DkCinU_dYswiFrwUCma9Yw&s=09)
-
+Twitter: For safety, temporarily closed
 Instagram: yujie348 
 
 Snapchat: [Edward Hsing](https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US) 
@@ -34,4 +31,3 @@ Mail: xingyujie50@gmail.com
 ## defend human rights.
 ## stand with Ukraine 
 ## stand with TAIWAN
-Twitter (Chinese News):@xyj_nullptr
