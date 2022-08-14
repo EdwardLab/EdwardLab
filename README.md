@@ -3,6 +3,7 @@
 ### Personal programmer Edward Hsing‘s Github homepage!
 ## Contact and follow me
 Twitter: For safety, temporarily closed 
+
 Instagram: yujie348 
 
 Snapchat: [Edward Hsing](https://www.snapchat.com/add/xingyujie50?share_id=XQ8dG5mh_CI&locale=en-US) 
