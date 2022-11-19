@@ -7,7 +7,7 @@
 
 SMS and Voicemail: +1 616-799-7429
 
-SMS and Voicemail (very important only) : +1 707-244-0656
+SMS only: +1 707-244-0656
 
 Mail: xingyujie50@gmail.com
 
