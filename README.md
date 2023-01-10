@@ -11,3 +11,6 @@ SMS only: +1 707-244-0656
 
 Mail: xingyujie50@gmail.com
 
+Founder of DigitalPlat Team [https://www.digitalplat.org]  
+Co-founder of LinkScape [http://linkscape.app]  
+We are 501(c)(3) non-profit organization in the United States
