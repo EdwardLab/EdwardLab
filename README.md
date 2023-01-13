@@ -1,4 +1,4 @@
-### Welcome to Edward Github homepage!
+### Welcome to Edward Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
 ### Personal programmer Edward Hsing‘s Github homepage!
 ## Contact and follow me
