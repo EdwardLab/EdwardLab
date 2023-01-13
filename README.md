@@ -11,4 +11,5 @@ SMS only: +1 (707)244-0656
 
 DigitalPlat Service: +1 (855)980-5959
 
-Mail: xingyujie50@gmail.com
+Mail: xingyujie50@gmail.com   
+xingyujie@digitalplat.org
