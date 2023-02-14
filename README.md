@@ -9,7 +9,5 @@ SMS and Voicemail: +1 (616)799-7429
 
 SMS only: +1 (707)244-0656
 
-DigitalPlat Service: +1 (855)980-5959
-
 Mail: xingyujie50@gmail.com   
 xingyujie@digitalplat.org
