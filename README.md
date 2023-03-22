@@ -1,6 +1,7 @@
 ### Welcome to Edward Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
 ### Personal programmer Edward Hsing‘s Github homepage!
+Hey!! I'm from China! But I have a heart yearning for freedom, and I love America! I created the DigitalPlat non-profit organization with members from all over the world pursuing open source and free software.  
 ## Contact and follow me
 
 [Linktree](https://linktr.ee/xingyujie) 
