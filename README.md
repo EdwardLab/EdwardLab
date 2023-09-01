@@ -7,12 +7,13 @@ Founder of EdgeAlpha/SanWard Tech
 
 Students of Nazareth School of National University  
 
-## Contact and follow me
+## follow me
 
 [Linktree](https://linktr.ee/xingyujie) 
 
 Facebook: Edward Hsing  
 Instagram: edwardhsing_run  
+X (Twitter): @EdwardHsingTech
 
 SMS and Voicemail: 1-616-799-7429  
 SMS only: 1-419-886-6888  
