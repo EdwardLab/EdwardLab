@@ -11,9 +11,13 @@ Students of Nazareth School of National University
 
 [Linktree](https://linktr.ee/xingyujie) 
 
-SMS and Voicemail: 1-616-799-7429
+Facebook: Edward Hsing  
+Instagram: edwardhsing_run  
 
-SMS only: 1-419-886-6888
+SMS and Voicemail: 1-616-799-7429  
+SMS only: 1-419-886-6888  
 
-Mail: xingyujie50@gmail.com   
-xingyujie@digitalplat.org
+Mail: 
+* xingyujie50@gmail.com   
+* xingyujie@digitalplat.org
+* xingy@students.nu-nazareth.edu.ph
