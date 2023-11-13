@@ -14,9 +14,6 @@ Facebook: Edward Hsing
 Instagram: edwardhsing_run  
 X (Twitter): @EdwardHsingTech
 
-SMS and Voicemail: 1-616-799-7429  
-SMS only: 1-419-886-6888  
-
 Mail: 
 * xingyujie50@gmail.com   
 * xingyujie@digitalplat.org
