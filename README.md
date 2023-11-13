@@ -41,4 +41,6 @@ Eagles
 John Denver    
 Darius Rucker    
 
-
+Dark and dusty, painted on thesky    
+Misty taste of moonshine, teardrop in my eye    
+_To the place i belong_
