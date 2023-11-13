@@ -27,7 +27,7 @@ Mail:
 Denver, CO, USA    
 Helena, MT, USA    
 New York, NY, USA    
-Canada
+Canada    
 Clark City, Philippines
 ##### Place want to live
 California
