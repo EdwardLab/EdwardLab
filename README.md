@@ -1,6 +1,5 @@
 ### Welcome to Edward's Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyujie&show_icons=true&theme=radical)
-### Personal programmer Edward Hsing‘s Github homepage!
 
 Founder of USA nonprofit organization [DigitalPlat](https://www.digitalplat.org)  
 Founder of EdgeAlpha/SanWard Tech  
