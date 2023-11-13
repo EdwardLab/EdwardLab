@@ -28,6 +28,7 @@ Denver, CO, USA
 Helena, MT, USA    
 New York, NY, USA    
 Canada    
+Europe    
 Clark City, Philippines
 ##### Place want to live
 California
