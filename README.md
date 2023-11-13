@@ -26,6 +26,14 @@ Mail:
 Denver, CO, USA    
 Helena, MT, USA    
 New York, NY, USA    
+Canada
+Clark City, Philippines
 ##### Place want to live
 California
+##### Favorite things
+Love travel 🧳, Go modern city and countryside    
+Cycling, swimming 🏊 and hiking 🥾     
+##### Favorite Food
+Pasta🍝, Hotdogs 🌭, Sandwich 🥪, burger 🍔, steak 🥩, fried chicken 🍗, salad 🥗, taco 🌮, Pizza 🍕
+
 
