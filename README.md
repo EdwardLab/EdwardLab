@@ -21,3 +21,11 @@ Mail:
 * xingyujie50@gmail.com   
 * xingyujie@digitalplat.org
 * xingy@students.nu-nazareth.edu.ph
+#### Favorite Place
+##### Place want to travel 🧳
+Denver, CO, USA
+Helena, MT, USA
+New York, NY, USA
+##### Place want to live
+California
+
