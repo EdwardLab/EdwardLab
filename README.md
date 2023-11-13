@@ -20,6 +20,7 @@ SMS only: 1-419-886-6888
 Mail: 
 * xingyujie50@gmail.com   
 * xingyujie@digitalplat.org
+* edward@digitalplat.org
 * xingy@students.nu-nazareth.edu.ph
 #### Favorite Place
 ##### Place want to travel 🧳
