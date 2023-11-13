@@ -33,7 +33,7 @@ California
 ##### Favorite things
 Love travel 🧳, Go modern city and countryside    
 Cycling, swimming 🏊 and hiking 🥾     
-##### Favorite Food
+##### Favorite Foods
 Pasta🍝, Hotdogs 🌭, Sandwich 🥪, burger 🍔, steak 🥩, fried chicken 🍗, salad 🥗, taco 🌮, Pizza 🍕
 ##### Favorite singer
 Taylor Swift    
