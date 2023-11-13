@@ -4,7 +4,7 @@
 Founder of USA nonprofit organization [DigitalPlat](https://www.digitalplat.org)  
 Founder of EdgeAlpha/SanWard Tech  
 
-Students of Nazareth School of National University  
+10th High School Students of Nazareth School of National University  
 
 ## follow me
 
