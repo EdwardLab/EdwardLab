@@ -26,7 +26,9 @@ New York, NY, USA
 West Virginia, USA    
 Canada    
 Europe    
-Clark City, Philippines
+Clark City, Philippines    
+Northern Mariana Island    
+Hawaii    
 ##### Place want to live
 California
 ##### Favorite things
