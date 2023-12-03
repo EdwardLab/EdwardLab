@@ -25,12 +25,11 @@ Helena, MT, USA
 New York, NY, USA    
 West Virginia, USA    
 Canada    
-Europe    
 Clark City, Philippines    
 Northern Mariana Island    
 Hawaii    
 ##### Place want to live
-California
+California, Michigan, Texas
 ##### Favorite things
 Love travel 🧳, Go modern city and countryside    
 Cycling, swimming 🏊 and hiking 🥾     
