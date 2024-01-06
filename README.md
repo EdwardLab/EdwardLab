@@ -14,7 +14,6 @@ X (Twitter): @EdwardHsingTech
 
 Mail: 
 * xingyujie50@gmail.com   
-* xingyujie@digitalplat.org
 * edward@digitalplat.org
 #### Favorite Place
 ##### Place want to travel 🧳
