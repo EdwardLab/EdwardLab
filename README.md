@@ -10,7 +10,7 @@ Founder of EdgeAlpha/SanWard Tech
 
 Facebook: Edward Hsing  
 Instagram: edwardhsing_run  
-X (Twitter): @EdwardHsingTech
+X (Twitter): @EdwardHsingLab
 
 Mail: 
 * xingyujie50@gmail.com   
