@@ -4,7 +4,7 @@ Founder of EdgeAlpha/SanWard Tech
 
 10th grade High School Students at Nazareth School of National University  
 
-## follow me
+## Follow me
 
 [Linktree](https://linktr.ee/xingyujie) 
 
@@ -32,12 +32,6 @@ Love travel 🧳, Go modern city and countryside
 Cycling, swimming 🏊 and hiking 🥾     
 ##### Favorite Foods
 Pasta🍝, Hotdogs 🌭, Sandwich 🥪, burger 🍔, steak 🥩, fried chicken 🍗, salad 🥗, taco 🌮, Pizza 🍕
-##### Favorite singer
-Taylor Swift    
-Lana del Rey   
-Eagles    
-John Denver    
-Darius Rucker    
 
 Dark and dusty, painted on the sky    
 Misty taste of moonshine, teardrop in my eye  
