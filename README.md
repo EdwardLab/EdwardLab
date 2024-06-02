@@ -28,4 +28,4 @@ Pasta🍝, Hotdogs 🌭, Sandwich 🥪, burger 🍔, steak 🥩, fried chicken �
 Dark and dusty, painted on the sky    
 Misty taste of moonshine, teardrop in my eye  
 country roads, take me home    
-_To the place i belong_
+_To the place I belong_
