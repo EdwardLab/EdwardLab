@@ -5,7 +5,7 @@ Founder and President of USA nonprofit organization [DigitalPlat](https://www.di
 
 
 Mail: 
-* xingyujie50@gmail.com   
+* edwardhsingdev@gmail.com    
 * edward@digitalplat.org
 #### Favorite Place
 ##### Place want to travel 🧳
