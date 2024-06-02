@@ -3,13 +3,6 @@ Founder and President of USA nonprofit organization [DigitalPlat](https://www.di
 
 10th grade High School Students at Nazareth School of National University  
 
-## Follow me
-
-[Linktree](https://linktr.ee/xingyujie) 
-
-Facebook: Edward Hsing  
-Instagram: edwardhsing_run  
-X (Twitter): @EdwardHsingLab
 
 Mail: 
 * xingyujie50@gmail.com   
