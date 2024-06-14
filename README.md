@@ -17,8 +17,6 @@ Canada
 Clark City, Philippines    
 Northern Mariana Island    
 Hawaii    
-##### Place want to live
-California, Michigan, Texas
 ##### Favorite things
 Love travel 🧳, Go modern city and countryside    
 Cycling, swimming 🏊 and hiking 🥾     
