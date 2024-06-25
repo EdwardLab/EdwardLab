@@ -1,5 +1,5 @@
 ### Welcome to Edward's Github
-Founder and President of USA nonprofit organization [DigitalPlat](https://www.digitalplat.org)    
+Founder and President of nonprofit organization [DigitalPlat](https://www.digitalplat.org)    
 
 10th grade High School Students at Nazareth School of National University  
 
