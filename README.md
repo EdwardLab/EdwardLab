@@ -18,7 +18,7 @@ Clark City, Philippines
 Northern Mariana Island    
 Hawaii    
 ##### Favorite things
-Love travel 🧳, Go modern city and countryside    
+Love CODING 👨‍💻👨‍💻👨‍💻, travel 🧳, Go modern city and countryside    
 Cycling, swimming 🏊 and hiking 🥾     
 
 
