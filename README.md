@@ -4,7 +4,7 @@ Hey there! I'm Edward, the Founder and President of the nonprofit organization [
 
 ---
 
-I'm passionate about creating both innovative and practical open-source projects. Additionally, I actively work on nonprofit initiatives to promote internet freedom. As a proud member of Hack Club, I enjoy collaborating with a global community of young hackers.
+I'm passionate about creating both innovative and practical open-source projects. Additionally, I actively work on nonprofit initiatives to promote internet freedom. As a proud club leader of Hack Club, I enjoy collaborating with a global community of young hackers.
 
 ---
 
