@@ -1,18 +1,23 @@
 ### Welcome to Edward's GitHub
 
-Hey there! I'm Edward, the Founder and President of the nonprofit organization DigitalPlat. I'm also a student and developer, turning my ideas into reality.
+Hi, I'm Edward — developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 200,000+ users globally.
 
-I'm passionate about creating both innovative and practical open-source projects. Additionally, I actively work on nonprofit initiatives to promote internet freedom. As a proud club leader of Hack Club, I enjoy collaborating with a global community of young hackers. I strongly support internet freedom, democracy, and human rights.
+I build high-impact open-source tools — from operating systems and domain infrastructure to embedded platforms and portable runtimes. I'm also a strong advocate for internet freedom, democracy, and human rights.
 
-💡 I am currently working in software development, the Internet of Things (IoT), cybersecurity (including network maintenance), Linux and embedded development, and edge computing.
+🌍 Currently based in Manila and living independently, I lead multiple open-source projects while studying OS kernel design, AI/ML, embedded Linux, and full-stack development.
 
-🎓 I am currently studying operating system kernel development (OSDEV), AI and machine learning, and front-end development (React), among other things.
+⚙️ **Focus areas:**
+- Operating systems, kernel engineering, and low-level architecture (x86/ARM)
+- Containerization, virtualization, and distributed edge computing
+- Portable runtimes, scripting ecosystems, and interpreter design
+- DNS infrastructure, networking protocols, and secure internet services
+- Embedded systems, IoT development, and applied cybersecurity
 
-To learn more, visit: https://edwarddev.com
+🧠 I'm also a Hack Club club leader, collaborating with young makers around the world to build things that matter.
 
----
+⏳ I personally maintain all my projects — fixing bugs, shipping updates, answering questions — while balancing school and life. If I’m slow to reply, thanks for your patience.
 
-I manage a lot of open-source and nonprofit projects. I keep all of them updated, fix bugs, respond to emails, and address user questions. Most of these projects are maintained by me alone, so please don’t rush me for updates or expect immediate replies. I'm currently in high school and living on my own, so I have a lot on my plate and stay very busy. For general inquiries or to reach out, please leave a message on my website at [https://edwarddev.com/#contact](https://edwarddev.com/#contact) or email me at hi@edwarddev.com. I’ll do my best to read and respond. Thank you for your understanding!
+📫 For inquiries, visit [edwarddev.com/contact](https://edwarddev.com/#contact) or email me at **hi@edwarddev.com**  
+☕ Support my work: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)
 
-Support my work: https://buymeacoffee.com/edwarddev
-
+Thanks for stopping by!
