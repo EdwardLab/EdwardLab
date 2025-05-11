@@ -1,6 +1,6 @@
 ### Welcome to Edward's GitHub
 
-Hi, I'm Edward — developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 200,000+ users globally.
+Hi, I'm Edward — Hi, I'm Edward — a high school student, developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 200,000+ users globally.
 
 I build high-impact open-source tools — from operating systems and domain infrastructure to embedded platforms and portable runtimes. I'm also a strong advocate for internet freedom, democracy, and human rights.
 
@@ -20,4 +20,4 @@ I build high-impact open-source tools — from operating systems and domain infr
 📫 For inquiries, visit [edwarddev.com/contact](https://edwarddev.com/#contact) or email me at **hi@edwarddev.com**  
 ☕ Support my work: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)
 
-Thanks for stopping by!
+Thanks for stopping by! :)
