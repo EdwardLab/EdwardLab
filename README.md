@@ -1,13 +1,13 @@
 ### Welcome to Edward's GitHub
 
-Hi, I'm Edward — Hi, I'm Edward — a high school student, developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 200,000+ users globally.
+Hi, I'm Edward — Hi, I'm Edward — a high school student, developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 250,000+ users globally.
 
 I build high-impact open-source tools — from operating systems and domain infrastructure to embedded platforms and portable runtimes. I'm also a strong advocate for internet freedom, democracy, and human rights.
 
 🌍 Currently based in Manila and living independently, I lead multiple open-source projects while studying OS kernel design, AI/ML, embedded Linux, and full-stack development.
 
 ⚙️ **Focus areas:**
-- Operating systems, kernel engineering, and low-level architecture (x86/ARM)
+- Operating systems, kernel engineering, and low-level architecture
 - Containerization, virtualization, and distributed edge computing
 - Portable runtimes, scripting ecosystems, and interpreter design
 - DNS infrastructure, networking protocols, and secure internet services
