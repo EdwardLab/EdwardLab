@@ -13,7 +13,7 @@ I build high-impact open-source tools — from operating systems and domain infr
 - DNS infrastructure, networking protocols, and secure internet services
 - Embedded systems, IoT development, and applied cybersecurity
 
-🧠 I'm also a Hack Club club leader, collaborating with young makers around the world to build things that matter.
+🧠 I'm also a Hack Club club leader, Member of open source initiative, collaborating with young makers around the world to build things that matter.
 
 ⏳ I personally maintain all my projects — fixing bugs, shipping updates, answering questions — while balancing school and life. If I’m slow to reply, thanks for your patience.
 
