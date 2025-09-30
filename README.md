@@ -1,23 +1,27 @@
-### Welcome to Edward's GitHub
+### Welcome to Edward's GitHub  
 
-Hi, I'm Edward — Hi, I'm Edward — a high school student, developer, systems architect, and founder of [DigitalPlat](https://digitalplat.org), a nonprofit supporting internet freedom and open-source infrastructure for 250,000+ users globally.
+Hi, I'm Edward — a high school student, developer, systems architect, and entrepreneur.  
+I’m the founder of [DigitalPlat](https://digitalplat.org), a **nonprofit organization supporting internet freedom and open-source infrastructure** for **tens of thousands of users worldwide**.  
 
-I build high-impact open-source tools — from operating systems and domain infrastructure to embedded platforms and portable runtimes. I'm also a strong advocate for internet freedom, democracy, and human rights.
+I’m also the **Founder & President of EdgeAlphix LLC**, a technology company building open-source software and digital infrastructure with a mission to protect freedom and serve humanity.  
 
-🌍 Currently based in Manila and living independently, I lead multiple open-source projects while studying OS kernel design, AI/ML, embedded Linux, and full-stack development.
+I create **high-impact projects**: from operating systems and container platforms to DNS infrastructure and portable runtimes. Beyond code, I advocate strongly for **internet freedom, democracy, and human rights**.   
 
-⚙️ **Focus areas:**
-- Operating systems, kernel engineering, and low-level architecture
-- Containerization, virtualization, and distributed edge computing
-- Portable runtimes, scripting ecosystems, and interpreter design
-- DNS infrastructure, networking protocols, and secure internet services
-- Embedded systems, IoT development, and applied cybersecurity
+⚙️ **Core focus areas:**  
+- Operating systems & kernel engineering  
+- Containerization, virtualization & edge computing  
+- Portable runtimes & interpreter ecosystems  
+- DNS, networking protocols & secure infrastructure  
+- Embedded systems, IoT & applied cybersecurity  
 
-🧠 I'm also a Hack Club club leader, Member of open source initiative, collaborating with young makers around the world to build things that matter.
+🧑‍💻 **Community & leadership:**  
+- Founder & President, **EdgeAlphix LLC**  
+- Founder, **DigitalPlat Foundation**  
+- OSI Member
 
-⏳ I personally maintain all my projects — fixing bugs, shipping updates, answering questions — while balancing school and life. If I’m slow to reply, thanks for your patience.
+⏳ I personally maintain all my projects — fixing bugs, shipping updates, supporting users — while balancing school and life.  
 
-📫 For inquiries, visit [edwarddev.com/contact](https://edwarddev.com/#contact) or email me at **hi@edwarddev.com**  
-☕ Support my work: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)
+📫 Contact: [edwarddev.com/contact](https://edwarddev.com/#contact) | **hi@edwarddev.com**  
+☕ Support my work: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)  
 
-Thanks for stopping by! :)
+Thanks for stopping by — let’s build the future together. 🚀  
