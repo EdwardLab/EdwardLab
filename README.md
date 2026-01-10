@@ -1,27 +1,32 @@
-### Welcome to Edward's GitHub  
+### Welcome, I’m Edward
 
-Hi, I'm Edward — a high school student, developer, systems architect, and entrepreneur.  
-I’m the founder of [DigitalPlat](https://digitalplat.org), a **nonprofit organization supporting internet freedom and open-source infrastructure** for **tens of thousands of users worldwide**.  
+I’m Edward. I build things, lead projects, and spend most of my time thinking about systems that should exist but don’t yet.
 
-I’m also the **Founder & President of EdgeAlphix LLC**, a technology company building open-source software and digital infrastructure with a mission to protect freedom and serve humanity.  
+I’m the founder of [DigitalPlat](https://digitalplat.org), a nonprofit focused on internet freedom and open-source infrastructure, now serving tens of thousands of users worldwide. The work sits at the intersection of technology, public interest, and long-term digital resilience.
 
-I create **high-impact projects**: from operating systems and container platforms to DNS infrastructure and portable runtimes. Beyond code, I advocate strongly for **internet freedom, democracy, and human rights**.   
+I also founded **EdgeAlphix LLC**, where I experiment with open-source software and infrastructure at a more aggressive pace. The goal is simple: build systems that are useful, durable, and aligned with human freedom rather than short-term incentives.
 
-⚙️ **Core focus areas:**  
-- Operating systems & kernel engineering  
-- Containerization, virtualization & edge computing  
-- Portable runtimes & interpreter ecosystems  
-- DNS, networking protocols & secure infrastructure  
-- Embedded systems, IoT & applied cybersecurity  
+Most of my projects live close to the metal. Operating systems, containers, virtualization, DNS, portable runtimes, and infrastructure that has to survive real-world abuse. I enjoy building things end to end, from low-level mechanics to systems people actually rely on.
 
-🧑‍💻 **Community & leadership:**  
-- Founder & President, **EdgeAlphix LLC**  
-- Founder, **DigitalPlat Foundation**  
-- OSI Member
+My current focus usually circles around:
 
-⏳ I personally maintain all my projects — fixing bugs, shipping updates, supporting users — while balancing school and life.  
+* Operating systems and kernel-level engineering
+* Containers, virtualization, and edge computing
+* Portable runtimes and interpreter ecosystems
+* DNS, networking protocols, and secure infrastructure
+* Embedded systems, IoT, and applied cybersecurity
 
-📫 Contact: [edwarddev.com/contact](https://edwarddev.com/#contact) | **hi@edwarddev.com**  
-☕ Support my work: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)  
+On the leadership side, I’m hands-on by default. I design, write code, review architecture, handle infrastructure, and still talk directly with users. I currently maintain all of my projects myself, balancing school, life, and a very opinionated backlog.
 
-Thanks for stopping by — let’s build the future together. 🚀  
+Roles, for context:
+
+* Founder & President, **EdgeAlphix LLC**
+* Founder, **DigitalPlat Foundation**
+* OSI Member
+
+If anything here overlaps with what you’re building or thinking about, feel free to reach out.
+
+📫 Contact: [edwarddev.com/contact](https://edwarddev.com/#contact) | [hi@edwarddev.com](mailto:hi@edwarddev.com)
+☕ Support: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)
+
+Thanks for stopping by. Let’s build things that actually matter.
