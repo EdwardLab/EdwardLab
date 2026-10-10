@@ -27,6 +27,6 @@ Roles, for context:
 If anything here overlaps with what you’re building or thinking about, feel free to reach out.
 
 📫 Contact: [edwarddev.com/contact](https://edwarddev.com/#contact) | [hi@edwarddev.com](mailto:hi@edwarddev.com)
-☕ Support: [Buy Me a Coffee](https://buymeacoffee.com/edwarddev)
+☕ Support: [Buy Me a Coffee](https://donate.edwarddev.com/)
 
 Thanks for stopping by. Let’s build things that actually matter.
